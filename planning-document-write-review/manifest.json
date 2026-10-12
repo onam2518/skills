@@ -1,0 +1,58 @@
+{
+  "name": "planning-document-write-review",
+  "title": "기획 문서 작성·검수",
+  "version": "2026.10.06",
+  "language": "ko",
+  "entrypoint": "SKILL.md",
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 1755,
+      "sha256": "3732d267f96809a049743e2688847c6513fa5fffccee0da40760db826d788668"
+    },
+    {
+      "path": "SKILL.md",
+      "bytes": 5757,
+      "sha256": "7078b56b89be48c4cecb20baaf53879bcb9853cd5ea8d59a3b0bc76eff63f831"
+    },
+    {
+      "path": "references/artifact-roles.md",
+      "bytes": 3197,
+      "sha256": "6c0fe4b67147e64500bd18301b41dbd9af44aae9ed9dff58cc72b51d4484518c"
+    },
+    {
+      "path": "references/document-standard.md",
+      "bytes": 4788,
+      "sha256": "298d8bfae19e86d4a5a0f95438ec1b502b2f97c5f5f3356be0d897c6e6c074d4"
+    },
+    {
+      "path": "references/final-review.md",
+      "bytes": 3241,
+      "sha256": "b9f4d18262dd0bf90395d8733bce7425abcf6c07e2e7de5ce47d6b9b1dd5afe5"
+    },
+    {
+      "path": "references/preservation-workflow.md",
+      "bytes": 3543,
+      "sha256": "c6f913f1ecb8714755c7d97385d70ba92ab39bace5d0678e5f6a4bec04998342"
+    },
+    {
+      "path": "templates/review-record.md",
+      "bytes": 1018,
+      "sha256": "9e5808ac36246cbd44e8d6104af818de49b57886764cc3874c5c666a294151e3"
+    },
+    {
+      "path": "templates/writing-plan.md",
+      "bytes": 753,
+      "sha256": "aa7eb3da9a970ed9f06e38e1beb6fb8596148b1bd356ef7f0de96b4bcc7e36e3"
+    }
+  ],
+  "executableScripts": false,
+  "installationPerformed": false,
+  "validation": [
+    "Skill frontmatter validated",
+    "Relative references resolved",
+    "Scenario review completed",
+    "No private project people, links or execution data included"
+  ],
+  "hashScope": "Files except manifest.json"
+}
